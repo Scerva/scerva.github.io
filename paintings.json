@@ -1,0 +1,21 @@
+[
+  {
+    "image": "photos/DSCN1316.jpg",
+    "text": "light",
+    "description": "Nice to meet you. This site explores my work, alongside photographs I’m proud of.",
+    "linkText": "LinkedIn",
+    "link": "https://www.linkedin.com/in/sergiocervantes-cal"
+  },
+  {
+    "image": "photos/IMG_1795.jpg",
+    "description": "Explore my code.",
+    "linkText": "GitHub",
+    "link": "https://github.com/scerva"
+  },
+  {
+    "image": "photos/IMG_3013.jpg",
+    "description": "Written work: “2026 United States Midterms: What to Expect,” PNC Economics Research, November 2026.",
+    "linkText": "Read the report",
+    "link": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/EconomicReports/EconomicUpdates/2026/PNC_Econ_Research_2026_Midterms.pdf"
+  }
+]

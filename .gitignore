@@ -1,0 +1,24 @@
+# Original photos keep their EXIF metadata (incl. GPS location). Only the
+# stripped, resized copies in photos/ (built by tools/build_photos.py) are published.
+imgs/
+
+# Raw LinkedIn paste used to write timeline.json
+linkedincopypaste.txt
+
+# Editor settings
+.vscode/
+
+.DS_Store
+
+# Converted photos not currently placed on the site — kept local, not published.
+# (Remove a line here when you put that photo into paintings.json / timeline.json.)
+photos/DSCF1738.jpg
+photos/DSCF3066.jpg
+photos/DSCN1418.jpg
+photos/IMG_0907.jpg
+photos/IMG_1546.jpg
+photos/IMG_1746.jpg
+photos/IMG_6055.jpg
+photos/IMG_6280.jpg
+photos/IMG_6656.jpg
+photos/IMG_8369.jpg

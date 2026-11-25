@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sergio Cervantes</title>
+  <meta name="description" content="Sergio Cervantes — economics projects, presented as a gallery." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='20' fill='%23fbfaf7' stroke='%232a2724' stroke-width='2'/%3E%3Crect x='8' y='11' width='16' height='10' fill='%232a2724'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <h1 class="name">SERGIO CERVANTES</h1>
+    <p class="role">ECONOMIST / SENIOR ASSOCIATE</p>
+    <span class="employer" role="img" aria-label="PNC"></span>
+    <p class="location">NEW YORK, NY</p>
+  </header>
+
+  <div class="wings" id="wings">
+    <main class="wing" id="wing-projects" tabindex="-1" aria-label="Projects"></main>
+    <main class="wing" id="wing-timeline" tabindex="-1" aria-label="Timeline"></main>
+  </div>
+
+  <button class="passage passage-next" id="to-timeline" type="button" aria-label="Go to timeline">
+    <svg viewBox="0 0 48 16" aria-hidden="true"><path d="M0 8h46M39 1l7 7-7 7" /></svg>
+    <span>TIMELINE</span>
+  </button>
+  <button class="passage passage-prev" id="to-projects" type="button" aria-label="Go to projects">
+    <svg viewBox="0 0 48 16" aria-hidden="true"><path d="M48 8H2M9 1L2 8l7 7" /></svg>
+    <span>PROJECTS</span>
+  </button>
+
+  <button class="skip" id="skip-graduation" type="button" aria-label="Skip to graduation">
+    <span>SKIP TO GRADUATION</span>
+    <svg viewBox="0 0 16 28" aria-hidden="true"><path d="M8 0v26M1 19l7 7 7-7" /></svg>
+  </button>
+
+  <noscript><p class="noscript">This gallery needs JavaScript to hang its paintings.</p></noscript>
+  <script src="script.js"></script>
+</body>
+</html>

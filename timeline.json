@@ -1,0 +1,46 @@
+[
+  {
+    "paintings": [
+      { "image": "photos/IMG_4564.jpg", "caption": "Brand Representative", "dates": "Oct 2017 — Aug 2018", "subcaption": "Hollister Co.", "link": "https://www.hollisterco.com" },
+      { "image": "photos/IMG_7616.jpg", "caption": "Data Entry Clerk", "dates": "Jun — Aug 2018", "subcaption": "Sonsray Machinery", "link": "https://sonsray.com" },
+      { "image": "photos/IMG_1751.jpg", "caption": "Driver", "dates": "Jun — Aug 2018", "subcaption": "The Positive Food Company", "link": "https://www.positive.co" },
+      { "image": "photos/IMG_7652.jpg", "caption": "Brand Representative", "dates": "Sep 2018 — Jul 2019", "subcaption": "Abercrombie & Fitch", "link": "https://www.abercrombie.com" },
+      { "image": "photos/DSCN0499.jpg", "caption": "Sales Floor Associate", "dates": "Oct 2019 — Feb 2020", "subcaption": "Columbia Sportswear Company", "link": "https://www.columbia.com" }
+    ],
+    "jobTitle": "Starting Out",
+    "dateRange": "Oct 2017 — Feb 2020"
+  },
+  {
+    "paintings": [
+      { "image": "photos/IMG_4054.jpg", "caption": "A.A. Economics" },
+      { "image": "photos/IMG_3685.jpg", "caption": "A.A. Psychology" },
+      { "image": "photos/IMG_3010.jpg", "caption": "A.A. Sociology" }
+    ],
+    "jobTitle": "Long Beach City College",
+    "dateRange": "May 2020"
+  },
+  {
+    "paintings": [
+      { "image": "photos/IMG_4087.jpg", "caption": "Summer Research Assistant", "dates": "Jun — Jul 2021", "subcaption": "U.C. Berkeley Department of Economics" },
+      { "image": "photos/DSCN1213.jpg", "caption": "Leadership Committee Member", "dates": "Sep — Dec 2021", "subcaption": "Latin American Leadership Society" },
+      { "image": "photos/IMG_9852.jpg", "caption": "Finance Intern", "dates": "Sep — Dec 2021", "subcaption": "Berkeley Undergraduate Economics Association" }
+    ],
+    "jobTitle": "Berkeley, CA",
+    "dateRange": "Jun 2021 — Dec 2021"
+  },
+  {
+    "anchor": "graduation",
+    "image": "photos/B2DF735B-6EE9-48C4-9DD9-DD296F213781.jpg",
+    "jobTitle": "B.A. Economics, Minor in Data Science, University of California, Berkeley",
+    "dateRange": "Aug 2022"
+  },
+  {
+    "paintings": [
+      { "image": "photos/IMG_2732.jpg", "caption": "Analyst", "dates": "Jun 2022 — Aug 2024", "link": "https://www.pnc.com" },
+      { "image": "photos/IMG_8909.jpg", "caption": "Associate", "dates": "Aug 2024 — Feb 2026", "link": "https://www.pnc.com" },
+      { "image": "photos/IMG_6767.jpg", "caption": "Senior Associate", "dates": "Feb 2026 — Present", "link": "https://www.pnc.com" }
+    ],
+    "jobTitle": "PNC, Chief Investment Office — Economics",
+    "dateRange": "Jun 2022 — Present"
+  }
+]
